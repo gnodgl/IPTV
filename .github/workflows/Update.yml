@@ -45,8 +45,9 @@ jobs:
         
         # IHOT
         rm -f IHOT.m3u && wget https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u -O IHOT.m3u
-        sed -i -n '/IHOT爱/,+1p' IHOT.m3u
+        sed -i -n '/求索\|IHOT爱\+/,+1p' IHOT.m3u
         sed -i '/iHOT爱怀旧\|iHOT爱经典\|iHOT爱娱乐\|iHOT爱江湖\|iHOT爱探索\|iHOT爱世界\|iHOT爱极限\|iHOT爱解密\|iHOT爱猎奇\|iHOT爱美食\|iHOT爱时尚\|iHOT爱家庭\|iHOT爱都市/,+1d' IHOT.m3u
+        sed -i 's/\"浙江求索生活\"/\"求索生活\"/g' IHOT.m3u
         sed -i '1i #EXTM3U' IHOT.m3u
         sed -i '/^\s*$/d' IHOT.m3u
 
