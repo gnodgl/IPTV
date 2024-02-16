@@ -217,3 +217,11 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000160630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000100630&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱动漫.png" group-title="IHOT",iHOT爱动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.112114.eu.org/logo/求索动物.png" group-title="IHOT",求索动物
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://epg.112114.eu.org/logo/求索记录.png" group-title="IHOT",求索记录
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.112114.eu.org/logo/求索科学.png" group-title="IHOT",求索科学
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.112114.eu.org/logo/浙江求索生活.png" group-title="IHOT",求索生活
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
