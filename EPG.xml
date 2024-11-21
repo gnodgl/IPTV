@@ -1,5 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv info-name="by spark " info-url="https://epg.112114.xyz">
+	<channel id="1905环球经典">
+		<display-name lang="zh">1905环球经典</display-name>
+	</channel>
+	<programme channel="1905环球经典" start="20241122000000 +0800" stop="20241122002100 +0800">
+		<title lang="zh">一夜风流</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122002100 +0800" stop="20241122031700 +0800">
+		<title lang="zh">一个明星的诞生</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122031700 +0800" stop="20241122050000 +0800">
+		<title lang="zh">花开蝶满枝</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122050000 +0800" stop="20241122064300 +0800">
+		<title lang="zh">甜姐儿</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122064300 +0800" stop="20241122082600 +0800">
+		<title lang="zh">雨中曲</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122082600 +0800" stop="20241122095700 +0800">
+		<title lang="zh">瑟堡的雨伞</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122095700 +0800" stop="20241122121100 +0800">
+		<title lang="zh">红菱艳</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122121100 +0800" stop="20241122134800 +0800">
+		<title lang="zh">出水芙蓉</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122134800 +0800" stop="20241122154000 +0800">
+		<title lang="zh">篷车队</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122154000 +0800" stop="20241122171200 +0800">
+		<title lang="zh">小公主</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122171200 +0800" stop="20241122184300 +0800">
+		<title lang="zh">绅士爱美人</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122184300 +0800" stop="20241122211700 +0800">
+		<title lang="zh">西区故事</title>
+	</programme>
+	<programme channel="1905环球经典" start="20241122211700 +0800" stop="20241122235900 +0800">
+		<title lang="zh">窈窕淑女</title>
+	</programme>
+	<channel id="4K综艺">
+		<display-name lang="zh">4K综艺</display-name>
+	</channel>
+	<programme channel="4K综艺" start="20241122000000 +0800" stop="20241122002900 +0800">
+		<title lang="zh">小小的追球20200129</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -48927,44 +48975,14 @@
 	<programme channel="newtv超级电影" start="20241122000400 +0800" stop="20241122001900 +0800">
 		<title lang="zh">今日影评</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20241122001900 +0800" stop="20241122014800 +0800">
+		<title lang="zh">盘尼西林1944</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
-	<programme channel="newtv超级电视剧" start="20241122000000 +0800" stop="20241122020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122020000 +0800" stop="20241122040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122060000 +0800" stop="20241122080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122080000 +0800" stop="20241122100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122100600 +0800" stop="20241122120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122120000 +0800" stop="20241122140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122140000 +0800" stop="20241122160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122160000 +0800" stop="20241122180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122180000 +0800" stop="20241122190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122190000 +0800" stop="20241122200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122200000 +0800" stop="20241122220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20241122220000 +0800" stop="20241122235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电视剧" start="20241122000900 +0800" stop="20241122005100 +0800">
+		<title lang="zh">07_绽放吧，百合</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
