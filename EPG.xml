@@ -16659,6 +16659,9 @@
 	<programme channel="咪咕综合体育" start="20241209001500 +0800" stop="20241209025000 +0800">
 		<title lang="zh">英超赛场-24/25赛季英超 第15轮 托特纳姆热刺-切尔西 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20241209025000 +0800" stop="20241209025500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16673,6 +16676,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20241209012600 +0800" stop="20241209022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241209022600 +0800" stop="20241209024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20241209024100 +0800" stop="20241209042100 +0800">
+		<title lang="zh">2024NBL常规赛_武汉鲲鹏-长沙湾田勇胜</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -43650,6 +43659,9 @@
 	<programme channel="黑莓动画" start="20241209014900 +0800" stop="20241209023800 +0800">
 		<title lang="zh">49_名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241209023800 +0800" stop="20241209032900 +0800">
+		<title lang="zh">10_星辰变 第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -43908,11 +43920,17 @@
 	<programme channel="newtv超级综艺" start="20241209015400 +0800" stop="20241209023900 +0800">
 		<title lang="zh">36_特战荣耀</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20241209023900 +0800" stop="20241209032900 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20241209013000 +0800" stop="20241209023800 +0800">
 		<title lang="zh">实况录像-2024年皮划艇激流回旋世界杯 西班牙站 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20241209023800 +0800" stop="20241209040000 +0800">
+		<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -43934,6 +43952,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20241209015200 +0800" stop="20241209023300 +0800">
 		<title lang="zh">08_大侠霍元甲</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20241209023300 +0800" stop="20241209031500 +0800">
+		<title lang="zh">09_大侠霍元甲</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -43961,6 +43982,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20241209015700 +0800" stop="20241209023200 +0800">
 		<title lang="zh">22_烧伤救治专家 盛志勇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20241209023200 +0800" stop="20241209032900 +0800">
+		<title lang="zh">第五集 布局海洋</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -44007,11 +44031,17 @@
 	<programme channel="newtv热播精选" start="20241209014600 +0800" stop="20241209023200 +0800">
 		<title lang="zh">26_青山不墨</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241209023200 +0800" stop="20241209031700 +0800">
+		<title lang="zh">27_青山不墨</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20241209005500 +0800" stop="20241209023100 +0800">
 		<title lang="zh">全城高考</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241209023100 +0800" stop="20241209032300 +0800">
+		<title lang="zh">24_求婚大作战</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -44034,6 +44064,9 @@
 	<programme channel="newtv怡伴健康" start="20241209015100 +0800" stop="20241209023600 +0800">
 		<title lang="zh">11_我的左手右手</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20241209023600 +0800" stop="20241209032700 +0800">
+		<title lang="zh">12_我的左手右手</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -44045,6 +44078,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20241209015000 +0800" stop="20241209024400 +0800">
 		<title lang="zh">33_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20241209024400 +0800" stop="20241209033700 +0800">
+		<title lang="zh">34_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -44069,6 +44105,12 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20241209021300 +0800" stop="20241209023100 +0800">
 		<title lang="zh">秋水伊人-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241209023100 +0800" stop="20241209024400 +0800">
+		<title lang="zh">有位姑娘-璞玉</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20241209024400 +0800" stop="20241209025500 +0800">
+		<title lang="zh">百花香-饶子龙</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -44099,6 +44141,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20241209004900 +0800" stop="20241209022800 +0800">
 		<title lang="zh">2024-25赛季英超联赛第7轮：曼城VS富勒姆</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20241209022800 +0800" stop="20241209041400 +0800">
+		<title lang="zh">2024-25赛季英超联赛第7轮：阿斯顿维拉VS曼联</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
