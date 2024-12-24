@@ -1,49 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="数字",欢笑剧场
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.cn/tv/欢笑剧场.png" group-title="数字",欢笑剧场 4K
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://live.fanmingming.cn/tv/都市剧场.png" group-title="数字",都市剧场
-http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.cn/tv/黑莓动画.png" group-title="数字",黑莓动画
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000096/index.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000021734/index.m3u8?channel-id=ystenlive&Contentid=1000000004000021734&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="数字",黑莓电影
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8
-#EXTINF:-1 tvg-name="newtv超级体育" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级体育.png" group-title="数字",超级体育
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000020/index.m3u8
-#EXTINF:-1 tvg-name="newtv超级电影" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电影.png" group-title="数字",超级电影
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000021/index.m3u8
-#EXTINF:-1 tvg-name="newtv超级电视剧" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级电视剧.png" group-title="数字",超级视剧
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000022/index.m3u8
-#EXTINF:-1 tvg-name="newtv东北热剧" tvg-logo="https://live.fanmingming.cn/tv/NEWTV东北热剧.png" group-title="数字",东北热剧
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000092/index.m3u8
-#EXTINF:-1 tvg-name="newtv海外剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV海外剧场.png" group-title="数字",海外剧场
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000115/index.m3u8
-#EXTINF:-1 tvg-name="newtv中国功夫" tvg-logo="https://live.fanmingming.cn/tv/NEWTV中国功夫.png" group-title="数字",中国功夫
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000101/index.m3u8
-#EXTINF:-1 tvg-name="newtv军旅剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV军旅剧场.png" group-title="数字",军旅剧场
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000107/index.m3u8
-#EXTINF:-1 tvg-name="newtv惊悚悬疑" tvg-logo="https://live.fanmingming.cn/tv/NEWTV惊悚悬疑.png" group-title="数字",惊悚悬疑
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000113/index.m3u8
-#EXTINF:-1 tvg-name="newtv潮妈辣婆" tvg-logo="https://live.fanmingming.cn/tv/NEWTV潮妈辣婆.png" group-title="数字",潮妈辣婆
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000099/index.m3u8
-#EXTINF:-1 tvg-name="newtv精品体育" tvg-logo="https://live.fanmingming.cn/tv/NEWTV精品体育.png" group-title="数字",精品体育
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000102/index.m3u8
-#EXTINF:-1 tvg-name="newtv精品纪录" tvg-logo="https://live.fanmingming.cn/tv/NEWTV精品纪录.png" group-title="数字",精品纪录
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000109/index.m3u8
-#EXTINF:-1 tvg-name="newtv家庭剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV家庭剧场.png" group-title="数字",家庭剧场
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000108/index.m3u8
-#EXTINF:-1 tvg-name="newtv精品大剧" tvg-logo="https://live.fanmingming.cn/tv/NEWTV精品大剧.png" group-title="数字",精品大剧
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000100/index.m3u8
-#EXTINF:-1 tvg-name="newtv军事评论" tvg-logo="https://live.fanmingming.cn/tv/NEWTV军事评论.png" group-title="数字",军事评论
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000110/index.m3u8
-#EXTINF:-1 tvg-name="newtv明星大片" tvg-logo="https://live.fanmingming.cn/tv/NEWTV明星大片.png" group-title="数字",明星大片
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000116/index.m3u8
-#EXTINF:-1 tvg-name="newtv欢乐剧场" tvg-logo="https://live.fanmingming.cn/tv/NEWTV欢乐剧场.png" group-title="数字",欢乐剧场
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000091/index.m3u8
-#EXTINF:-1 tvg-name="newtv精品萌宠" tvg-logo="https://live.fanmingming.cn/tv/NEWTV精品萌宠.png" group-title="数字",精品萌宠
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000122/index.m3u8
-#EXTINF:-1 tvg-name="newtv超级综艺" tvg-logo="https://live.fanmingming.cn/tv/NEWTV超级综艺.png" group-title="数字",超级综艺
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000019/index.m3u8
-#EXTINF:-1 tvg-name="newtv金牌综艺" tvg-logo="https://live.fanmingming.cn/tv/NEWTV金牌综艺.png" group-title="数字",金牌综艺
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000112/index.m3u8
-#EXTINF:-1 tvg-name="newtv炫舞未来" tvg-logo="https://live.fanmingming.cn/tv/NEWTV炫舞未来.png" group-title="数字",炫舞未来
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000098/index.m3u8
+http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
