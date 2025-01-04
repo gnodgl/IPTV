@@ -50259,6 +50259,12 @@
 	<programme channel="黑莓动画" start="20250105004500 +0800" stop="20250105013200 +0800">
 		<title lang="zh">03_一人之下第二季</title>
 	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20250105004800 +0800" stop="20250105023600 +0800">
+		<title lang="zh">遗失在火中的记忆</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -50538,6 +50544,9 @@
 	<programme channel="newtv超级综艺" start="20250105001800 +0800" stop="20250105010300 +0800">
 		<title lang="zh">33_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250105010300 +0800" stop="20250105014800 +0800">
+		<title lang="zh">34_三十而已</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50580,41 +50589,8 @@
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
-	<programme channel="newtv超级电影" start="20250105000000 +0800" stop="20250105020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105020000 +0800" stop="20250105040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105060000 +0800" stop="20250105080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105080000 +0800" stop="20250105100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105100600 +0800" stop="20250105120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105120000 +0800" stop="20250105140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105140000 +0800" stop="20250105160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105160000 +0800" stop="20250105180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105180000 +0800" stop="20250105190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105190000 +0800" stop="20250105200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105200000 +0800" stop="20250105220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电影" start="20250105220000 +0800" stop="20250105235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电影" start="20250105005700 +0800" stop="20250105023200 +0800">
+		<title lang="zh">马锡五断案</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50633,6 +50609,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20250105002600 +0800" stop="20250105005000 +0800">
 		<title lang="zh">05_坚持，再坚持一下</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250105005000 +0800" stop="20250105011600 +0800">
+		<title lang="zh">06_寻找精准医学之路</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50691,11 +50670,17 @@
 	<programme channel="newtv军事评论" start="20250105003400 +0800" stop="20250105010000 +0800">
 		<title lang="zh">水上驰援</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250105010000 +0800" stop="20250105012600 +0800">
+		<title lang="zh">“战神”的考验</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250105001000 +0800" stop="20250105010000 +0800">
 		<title lang="zh">绽放吧！妈妈（20241230）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250105010000 +0800" stop="20250105022100 +0800">
+		<title lang="zh">中央广播电视总台2023小品相声大会（20231117）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
