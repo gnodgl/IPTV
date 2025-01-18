@@ -45450,6 +45450,9 @@
 	<programme channel="newtv超级电视剧" start="20250119001000 +0800" stop="20250119005600 +0800">
 		<title lang="zh">28_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250119005600 +0800" stop="20250119014200 +0800">
+		<title lang="zh">29_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -45477,11 +45480,17 @@
 	<programme channel="newtv军旅剧场" start="20250119001100 +0800" stop="20250119005800 +0800">
 		<title lang="zh">08_红蔷薇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250119005800 +0800" stop="20250119014800 +0800">
+		<title lang="zh">09_红蔷薇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
 	<programme channel="newtv家庭剧场" start="20250119000600 +0800" stop="20250119005100 +0800">
 		<title lang="zh">18_父亲的草原母亲的河</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250119005100 +0800" stop="20250119014200 +0800">
+		<title lang="zh">19_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -45554,6 +45563,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250119003200 +0800" stop="20250119005400 +0800">
 		<title lang="zh">军武时光机（9）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250119005400 +0800" stop="20250119011600 +0800">
+		<title lang="zh">走向深蓝（9）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
