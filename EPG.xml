@@ -16926,6 +16926,9 @@
 	<programme channel="咪咕足球" start="20250213012600 +0800" stop="20250213022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250213024100 +0800" stop="20250213042100 +0800">
+		<title lang="zh">2024NBL半决赛G1 香港金牛-长沙湾田永胜</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -38814,6 +38817,9 @@
 	<programme channel="纯享4K" start="20250213020600 +0800" stop="20250213023600 +0800">
 		<title lang="zh">寻古中国4K 寻夏记b7夏迹寻踪</title>
 	</programme>
+	<programme channel="纯享4K" start="20250213023600 +0800" stop="20250213030600 +0800">
+		<title lang="zh">寻古中国4K 寻夏记b7夏禾丰裕</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47091,11 +47097,17 @@
 	<programme channel="newtv超级综艺" start="20250213020700 +0800" stop="20250213025200 +0800">
 		<title lang="zh">32_特战荣耀</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250213025200 +0800" stop="20250213033700 +0800">
+		<title lang="zh">艺览天下</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20250213010500 +0800" stop="20250213023500 +0800">
 		<title lang="zh">赛事集锦-2024年世界羽联世界巡回赛总决赛 3(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250213023500 +0800" stop="20250213040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛总决赛 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47117,6 +47129,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250213015400 +0800" stop="20250213023800 +0800">
 		<title lang="zh">06_警犬来啦</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250213023800 +0800" stop="20250213032300 +0800">
+		<title lang="zh">07_警犬来啦</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47148,6 +47163,9 @@
 	<programme channel="newtv精品纪录" start="20250213020700 +0800" stop="20250213023500 +0800">
 		<title lang="zh">第3集：从硬件到软件</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250213023500 +0800" stop="20250213030400 +0800">
+		<title lang="zh">第4集：从传承到创新</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47168,6 +47186,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250213013000 +0800" stop="20250213021800 +0800">
 		<title lang="zh">07_天涯浴血</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250213021800 +0800" stop="20250213030500 +0800">
+		<title lang="zh">08_天涯浴血</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47190,11 +47211,17 @@
 	<programme channel="newtv热播精选" start="20250213015800 +0800" stop="20250213024400 +0800">
 		<title lang="zh">32_安家</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250213024400 +0800" stop="20250213033100 +0800">
+		<title lang="zh">33_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250213004400 +0800" stop="20250213021900 +0800">
 		<title lang="zh">失心者</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250213021900 +0800" stop="20250213030500 +0800">
+		<title lang="zh">11_千古玦尘</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -47241,6 +47268,9 @@
 	<programme channel="newtv军事评论" start="20250213014500 +0800" stop="20250213023800 +0800">
 		<title lang="zh">《谁是终极英雄》春节特别策划 双拥花开春满园</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250213023800 +0800" stop="20250213032800 +0800">
+		<title lang="zh">学雷锋精神当服务标兵 国防知识挑战赛走进空军后勤部某直属保障大队</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47250,6 +47280,9 @@
 	<programme channel="newtv炫舞未来" start="20250213012000 +0800" stop="20250213023700 +0800">
 		<title lang="zh">喜剧人带着各地不同的习俗和美食共赴《开门大吉》（20250131）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250213023700 +0800" stop="20250213024800 +0800">
+		<title lang="zh">套马杆-乌兰图雅</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47258,6 +47291,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250213013600 +0800" stop="20250213024100 +0800">
 		<title lang="zh">十三邀第8季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250213024100 +0800" stop="20250213032800 +0800">
+		<title lang="zh">41_一代枭雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
