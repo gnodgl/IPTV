@@ -16455,6 +16455,12 @@
 	<programme channel="咪咕足球" start="20250215012600 +0800" stop="20250215022600 +0800">
 		<title lang="zh">超级三对三-2024超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250215022600 +0800" stop="20250215024100 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250215024100 +0800" stop="20250215042100 +0800">
+		<title lang="zh">2024NBL半决赛G3 长沙湾田勇胜-香港金牛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -46941,11 +46947,17 @@
 	<programme channel="黑莓动画" start="20250215013400 +0800" stop="20250215022300 +0800">
 		<title lang="zh">45_名侦探柯南（一）（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250215022300 +0800" stop="20250215031200 +0800">
+		<title lang="zh">09_星辰变第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250215005400 +0800" stop="20250215021900 +0800">
 		<title lang="zh">猫妖奇谭</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250215021900 +0800" stop="20250215034600 +0800">
+		<title lang="zh">源b7彩虹</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -47622,6 +47634,9 @@
 	<programme channel="newtv超级综艺" start="20250215014000 +0800" stop="20250215022500 +0800">
 		<title lang="zh">40_特战荣耀</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250215022500 +0800" stop="20250215034600 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47633,6 +47648,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250215011000 +0800" stop="20250215023800 +0800">
 		<title lang="zh">赛事集锦-2024年世界羽联世界巡回赛总决赛 1(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250215023800 +0800" stop="20250215040000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛 芬兰站 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47657,6 +47675,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250215013900 +0800" stop="20250215022300 +0800">
 		<title lang="zh">18_警犬来啦</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250215022300 +0800" stop="20250215030800 +0800">
+		<title lang="zh">19_警犬来啦</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47688,6 +47709,9 @@
 	<programme channel="newtv精品纪录" start="20250215020700 +0800" stop="20250215022400 +0800">
 		<title lang="zh">03_希望</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250215022400 +0800" stop="20250215025100 +0800">
+		<title lang="zh">第7集：从产业链到价值链</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47708,6 +47732,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250215013600 +0800" stop="20250215022300 +0800">
 		<title lang="zh">17_天涯浴血</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250215022300 +0800" stop="20250215031000 +0800">
+		<title lang="zh">18_天涯浴血</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
